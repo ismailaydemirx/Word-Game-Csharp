@@ -39,5 +39,3 @@ Thanks for playing. Goodbye!
 ## Developer
 
 This project is developed by Ismail AYDEMIR as a small project.
-
-```
